@@ -1,0 +1,3 @@
+#################################################################################################
+THIS IS AN ANDROID APPLICATION TO WORK WITH SERVER MONITORING PLEASE BE AWARE THAT IS FOR ACADEMIC PURPOSE
+AND NOT INTENDED TO BE COMMERCIAL IN ANYWAY.
